@@ -61,3 +61,37 @@ python image_angle_test.py
 python image_test.py
 python random_imagetest.py
 
+
+These scripts are designed to test ANY Vision-Language Model.
+In your thesis work, you used:
+
+ Gemma-3 Vision (via Ollama or HF Transformers)
+
+Gemma3:4b
+
+Gemma3:12b
+
+Local inference using Ollama or transformers pipeline
+
+Supported Models
+
+You may test:
+
+✔ LLaVA
+✔ LLaVA-1.5
+✔ Gemini-Vision (if API available)
+✔ Gemma-3 Vision
+✔ Any VLM supporting image input
+
+ Expected Output
+
+Each script produces:
+
+JSON or text logs of predictions
+
+Side-by-side comparisons
+
+Highlighted bias or instability
+
+
+
