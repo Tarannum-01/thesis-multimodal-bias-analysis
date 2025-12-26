@@ -10,3 +10,20 @@ Code, experiments, and results for my Master's Thesis on bias detection and robu
 | generative_models | Image generation bias experiments                  |
 | vlm_bias_test     | Vision-Language Model bias & robustness tests      |
 | vlm_mitigation    | Fine-tuning and mitigation scripts                 |
+
+
+## Research Focus
+- Multimodal bias detection
+- Vision-Language Models (VLMs)
+- Robustness under image transformations
+- Fairness and evaluation metrics
+
+## Contents
+- Data preprocessing scripts
+- Model training and evaluation
+- Experimental results
+- Figures and analysis notebooks
+
+## Author
+Tarannum Mithila  
+Independent Researcher
